@@ -29,6 +29,7 @@ public class WebPicConfig implements WebMvcConfigurer {
                 .addResourceLocations(Constants.SONGLIST_PIC_PATH);
         registry.addResourceHandler("/img/swiper/**")
                 .addResourceLocations(Constants.BANNER_PIC_PATH);
+        System.out.println(Constants.AVATOR_IMAGES_PATH);
     }
 
 }

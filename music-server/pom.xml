@@ -9,9 +9,9 @@
         <relativePath/>
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>yin</artifactId>
+    <artifactId>loeng</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Yin-music</name>
+    <name>Loeng-music</name>
     <description>music-website project for Spring Boot</description>
 
     <properties>

@@ -6,10 +6,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 @MapperScan("com.example.yin.mapper")
-public class YinMusicApplication {
+public class LoengMusicApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(YinMusicApplication.class, args);
+        SpringApplication.run(LoengMusicApplication.class, args);
     }
 
 }
